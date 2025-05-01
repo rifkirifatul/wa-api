@@ -1,0 +1,2 @@
+[2025-05-01T08:20:31.186Z] {"direction":"incoming","from":"6281944131818","message":"Test7"}
+[2025-05-01T08:22:11.417Z] {"direction":"incoming","from":"6281944131818","message":"Test 8"}
